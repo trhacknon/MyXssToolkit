@@ -44,3 +44,16 @@ METHOD:    p
 URL:       http://www.site.com/file.php
 POST DATA: parameter=value&parameter1=value1
 WORDLIST:  wordlist.txt
+
+
+# lucky-scan      🐛 🐛 
+   
+######  <g-emoji class="g-emoji" alias="cd" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bf.png">💿</g-emoji> I created this tool to find xss on a big website sometimes we use archive.org  to find links we see have thousand of links we use these tools to easily find xss the tools by sending a request to all links in archive.org and changing all parameters (=) to your payload  <g-emoji class="g-emoji" alias="cd" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bf.png">💿</g-emoji>
+
+<h1><g-emoji class="g-emoji" alias="ledger" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d2.png">📒</g-emoji> How it work <g-emoji class="g-emoji" alias="ledger" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d2.png">📒</g-emoji> </h1>
+
+
+
+- download file python (you need python3) ( python3 lucky-scan.py) <br>
+- modify  txt files like (payloads.txt) add payload in a text <br>
+- run tools  python3 lucky-scan.py <br>

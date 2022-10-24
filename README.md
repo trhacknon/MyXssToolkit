@@ -59,6 +59,11 @@ WORDLIST:  wordlist.txt
 - run tools  python3 lucky-scan.py <br>
 
 
+<h1> <g-emoji class="g-emoji" alias="card_file_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png">🗃️</g-emoji> <a href="https://youtu.be/" rel="nofollow"><img src="" alt="YouTube" data-canonical-src="https://youtu.be/FgkwKou9QqE" style="max-width: 100%;"></a> <g-emoji class="g-emoji" alias="card_file_box" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c3.png">🗃️</g-emoji> </h1>
+
+###### 
+![1](https://github.com/trhacknon/lucky-scan/raw/main/Screenshot_2022-10-24-04-33-34-627_com.termux.jpg)  ![3](https://github.com/trhacknon/lucky-scan/raw/main/Screenshot_2022-10-24-04-52-07-579_com.termux.jpg) ![2](https://github.com/trhacknon/lucky-scan/raw/main/Screenshot_2022-10-24-04-42-55-122_com.darknethaxor.hackbar.jpg) 
+
 # XSSearch
 ##### _A Comprehensive Reflected XSS Scanner_
 <p align="center">

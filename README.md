@@ -144,7 +144,7 @@ $ python3 xssearch.py -u url.com/?s={xss} -p payloads.txt
 $ python3 xssearch.py -u https://ac121f0e1eb31ae5c0c9473f00f400f7.web-security-academy.net/?search={xss} -p payloads.txt
 ````
 <p align="center">
-<img src=https://github.com/trhacknon/XSSearch/blob/main/Images/xssearch.PNG>
+<img src=https://github.com/trhacknon/MyXssToolkit/raw/master/IMG_20221024_100750.jpg>
 </p>
 
 Above is the screenshot of the tool with live example.<br/>

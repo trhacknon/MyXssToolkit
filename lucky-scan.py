@@ -1,4 +1,4 @@
-from asyncore import write
+import asyncio
 from re import A, X
 from urllib.error import URLError
 import requests

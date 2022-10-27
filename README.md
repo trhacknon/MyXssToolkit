@@ -159,3 +159,4 @@ Use the below command to get help
 $ python3 xssearch.py -h
 ````
 <h2><strong>you can use this other tool for xss https://github.com/trhacknon/PwnXSS
+<h2><strong>another tool https://github.com/trhacknon/TrknXssPy
